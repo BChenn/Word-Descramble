@@ -1,0 +1,14 @@
+C:\Users\KellyHoei\Desktop\WordDescrambler\bin\Debug\net8.0\WordDescrambler.exe
+C:\Users\KellyHoei\Desktop\WordDescrambler\bin\Debug\net8.0\WordDescrambler.deps.json
+C:\Users\KellyHoei\Desktop\WordDescrambler\bin\Debug\net8.0\WordDescrambler.runtimeconfig.json
+C:\Users\KellyHoei\Desktop\WordDescrambler\bin\Debug\net8.0\WordDescrambler.dll
+C:\Users\KellyHoei\Desktop\WordDescrambler\bin\Debug\net8.0\WordDescrambler.pdb
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\WordDescrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\WordDescrambler.AssemblyInfoInputs.cache
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\WordDescrambler.AssemblyInfo.cs
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\WordDescrambler.csproj.CoreCompileInputs.cache
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\WordDescrambler.dll
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\refint\WordDescrambler.dll
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\WordDescrambler.pdb
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\WordDescrambler.genruntimeconfig.cache
+C:\Users\KellyHoei\Desktop\WordDescrambler\obj\Debug\net8.0\ref\WordDescrambler.dll
